@@ -1,0 +1,30 @@
+€•â      Œpsychopy.data.experiment”ŒExperimentHandler”“”)”}”(Œloops”]”Œpsychopy.data.trial”ŒTrialHandler”“”)”}”(Œname”Œtrials”Œ autoLog”ˆŒ	trialList”]”(h Œ	TrialType”“”)”Œ problem”ŒWA pizza is cut into 10 slices. If you eat 2/5 of the pizza, how many slices did you eat”sh)”hŒRA class has 25 students. If 60% of them are girls, how many girls are in the class”sh)”hŒ|A recipe calls for 3 cups of water for every 4 cups of flour. If you use 8 cups of flour, how many cups of water do you need”sh)”hŒHA car travels 420 miles in 7 hours. What is the average speed of the car”sh)”hŒjA store is having a 40% off sale. If a pair of jeans originally costs $40, how much will they cost on sale”sh)”hNseŒnReps”KŒnTotal”KŒ
+nRemaining”JÿÿÿÿŒmethod”Œrandom”ŒthisRepN”KŒ
+thisTrialN”K ŒthisN”KŒ	thisIndex”Œnumpy.core.multiarray”Œscalar”“”Œnumpy”Œdtype”“”Œi4”‰ˆ‡”R”(KŒ<”NNNJÿÿÿÿJÿÿÿÿK t”bC   ”†”R”Œ	thisTrial”]”Œfinished”ˆŒ	extraInfo”}”(Œ
+participant”Œ Participant_003_SOY”Œ session”Œ001”Œdate”Œ2024-12-04_13h08.26.750”Œ expName”ŒShape of you”ŒpsychopyVersion”Œ2024.1.5”Œ	frameRate”NŒexpStart”Œ 2024-12-04 13h08.40.753480 +0530”uŒseed”NŒdata”Œpsychopy.data.base”Œ
+DataHandler”“”)”(Œran”Œ
+numpy.ma.core”Œ_mareconstruct”“”(hOŒ
+MaskedArray”“”h+Œ ndarray”“”K …”Œb”t”R”(KKK†”h-Œf4”‰ˆ‡”R”(Kh1NNNJÿÿÿÿJÿÿÿÿK t”b‰C  €?  €?  €?  €?  €?  €?”C      ”Nt”bŒorder”hQ(hShUhVhWt”R”(KKK†”h]‰C   @  €@  €?  @@   @    ”C      ”Nt”bŒtextbox.text”h(Œ_reconstruct”“”hUK …”Cb”‡”R”(KKK†”h-ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”b‰]”(Œ4”Œ15”hwŒ80”Œ24”Œ ”et”bŒ mouse.x”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”h*h-Œf8”‰ˆ‡”R”(Kh1NNNJÿÿÿÿJÿÿÿÿK t”bC–übÉ/–¼?”†”R”a]”h*h†C–übÉ/–¼?”†”R”a]”h*h†C–übÉ/–¼?”†”R”a]”h*h†C–übÉ/–¼?”†”R”a]”h*h†C–übÉ/–¼?”†”R”a]”h*h†C–übÉ/–¼?”†”R”aet”bŒ mouse.y”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”h*h†CÆ’_,ùÅÒ¿”†”R”a]”h*h†CÆ’_,ùÅÒ¿”†”R”a]”h*h†CÆ’_,ùÅÒ¿”†”R”a]”h*h†CÆ’_,ùÅÒ¿”†”R”a]”h*h†CÆ’_,ùÅÒ¿”†”R”a]”h*h†CÆ’_,ùÅÒ¿”†”R”aet”bŒmouse.leftButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”Ka]”Ka]”Ka]”Ka]”Ka]”Kaet”bŒmouse.midButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”K a]”K a]”K a]”K a]”K a]”K aet”bŒmouse.rightButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”K a]”K a]”K a]”K a]”K a]”K aet”bŒ
+mouse.time”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”Œpsychopy.clock”Œ	Timestamp”“”G@'mÓË  …””}”(Œ	lastReset”GAÙÔÃ`c´Œformat”Œbuiltins”Œfloat”“”uba]”hïG@#UX‚x  …””}”(hóGAÙÔË"H“hôh÷uba]”hïG@ )Áàà  …””}”(hóGAÙÔÁÛhôh÷uba]”hïG@1LOãm  …””}”(hóGAÙÔÆCuhôh÷uba]”hïG@.åB¶^  …””}”(hóGAÙÔÍÍ
+=hôh÷uba]”hïG?úmyJp  …””}”(hóGAÙÔÀqJåhôh÷ubaet”bu}”(h
+h
+Œ	dataTypes”]”(hNhbhih}h h¿hÌhÙhæeŒ	isNumeric”}”(hNˆhbˆhi‰h}‰h ‰h¿‰hÌ‰hÙ‰hæ‰uŒ	dataShape”]”(KKeubŒsequenceIndices”hkhUK …”hm‡”R”(KKK†”h0‰C                   ”t”bŒ
+originPath”JÿÿÿÿŒorigin”NŒ_exp”ŠP¨µubaŒloopsUnfinished”]”hhBŒ version”h{Œ
+runtimeInfo”Nh9h:j  ŒMC:\Users\Kaavya\Desktop\PSY310\PSYCHOPY\Final Project\Shape of you_lastrun.py”Œ
+savePickle”‰ŒsaveWideText”‰ŒdataFileName”ŒgC:\Users\Kaavya\Desktop\PSY310\PSYCHOPY\Final Project\data/Participant_003_SOY_Shape of you_2024-12-04_13h08.26.750”Œ
+sortColumns”Œtime”Œ	thisEntry”}”Œ entries”]”(}”(Œ
+trial.started”G?’|   Œ	thisRow.t”G?›4ÓF   Œpolygon.started”G?›4ÓF   Œtext.started”G?ğj
+X  Œtextbox.started”G?ğj
+X  ŒSubmit_text.started”G?ğj
+X  Œ
+mouse.started”G?ğoVêÈ  Œpolygon.stopped”G?ğ°B7°  Œ
+trial.stopped”G@p
+  hih{h}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG?úmyJp  …””}”(hóGAÙÔÀqJåhôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”K Œtrials.thisN”K Œtrials.thisIndex”h*h0C   ”†”R”hNh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j.  G@q1ùx  j/  G@‹ñp  j0  G@‹ñp  j4  G?ïı.^À  j5  G@
+Œ³¯Ä  j1  G@
+Œ³¯Ä  j2  G@
+Œ³¯Ä  j3  G@
+Œ³¯Ä  j6  G@'†"R:  hihwh}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG@ )Áàà  …””}”(hóGAÙÔÁÛhôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j.  G@'†\ó   j/  G@'[Fw  j0  G@'[Fw  j4  G?ğÅ¢0  j5  G@)—b‡  j1  G@)—b‡  j2  G@)—b‡  j3  G@)—b‡  j6  G@8ziE>  hihwh}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG@'mÓË  …””}”(hóGAÙÔÃ`c´hôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C    ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j.  G@8zŠ³L€ j/  G@8~
+ª€ j0  G@8~
+ª€ j4  G?ğ  ¥@  j5  G@9}ós)€ j1  G@9}ós)€ j2  G@9}ós)€ j3  G@9}ós)€ j6  G@Ecµr€ hihyh}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG@1LOãm  …””}”(hóGAÙÔÆCuhôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j.  G@EcÆ½¿  j/  G@EeK¤C@ j0  G@EeK¤C@ j5  G@EåN  j1  G@EåN  j2  G@EåN  j3  G@EåN  j4  G?ğ:]Éà  j6  G@Jºùğò@ hihxh}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG@#UX‚x  …””}”(hóGAÙÔË"H“hôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j.  G@J»ª@ j/  G@J¼¶ka€ j0  G@J¼¶ka€ j4  G?ğ ÍÕà  j5  G@K<·Şÿ  j1  G@K<·Şÿ  j2  G@K<·Şÿ  j3  G@K<·Şÿ  j6  G@Qz6Ãá` hihzh}]”h*h†C–übÉ/–¼?”†”R”ah ]”h*h†CÆ’_,ùÅÒ¿”†”R”ah¿]”KahÌ]”K ahÙ]”K ahæ]”hïG@.åB¶^  …””}”(hóGAÙÔÍÍ
+=hôh÷ubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h5hhh;h<h=h>h?h@hAhBhChDhENhFhGueŒ_paramNamesSoFar”]”haŒ	dataNames”]”(Œ	thisRow.t”Œnotes”j.  j0  j1  j2  j3  j5  j4  j6  hih}h h¿hÌhÙhæeŒcolumnPriority”}”(jÁ  KjÂ  K	Œ expName”K uhˆŒ
+appendFiles”‰Œ _status”Jÿÿÿÿub.

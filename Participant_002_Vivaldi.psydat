@@ -1,0 +1,30 @@
+€•ï      Œpsychopy.data.experiment”ŒExperimentHandler”“”)”}”(Œloops”]”Œpsychopy.data.trial”ŒTrialHandler”“”)”}”(Œname”Œtrials”Œ autoLog”ˆŒ	trialList”]”(h Œ	TrialType”“”)”Œ problem”ŒLA train travels 45 miles per hour. How long will it take to travel 270 miles”sh)”hŒaA store is having a 25% off sale. If a shirt originally costs $20, how much will it cost on sale?”sh)”hŒrA video game costs $45. If you save $5 per week, how many weeks will it take to save enough money to buy the game?”sh)”hŒfA recipe calls for 1/2 cup of flour and 1/4 cup of sugar. What is the total amount of dry ingredients?”sh)”hŒlA bakery sells cupcakes in boxes of 12. If they sell 7 boxes a day, how many cupcakes do they sell in a week”sh)”hNseŒnReps”KŒnTotal”KŒ
+nRemaining”JÿÿÿÿŒmethod”Œrandom”ŒthisRepN”KŒ
+thisTrialN”K ŒthisN”KŒ	thisIndex”Œnumpy.core.multiarray”Œscalar”“”Œnumpy”Œdtype”“”Œi4”‰ˆ‡”R”(KŒ<”NNNJÿÿÿÿJÿÿÿÿK t”bC   ”†”R”Œ	thisTrial”]”Œfinished”ˆŒ	extraInfo”}”(Œ
+participant”ŒParticipant_002_Vivaldi”Œ session”Œ001”Œdate”Œ2024-12-03_15h45.20.663”Œ expName”Œuntitled”ŒpsychopyVersion”Œ2024.1.5”Œ	frameRate”NŒexpStart”Œ 2024-12-03 15h45.32.209785 +0530”uŒseed”NŒdata”Œpsychopy.data.base”Œ
+DataHandler”“”)”(Œran”Œ
+numpy.ma.core”Œ_mareconstruct”“”(hOŒ
+MaskedArray”“”h+Œ ndarray”“”K …”Œb”t”R”(KKK†”h-Œf4”‰ˆ‡”R”(Kh1NNNJÿÿÿÿJÿÿÿÿK t”b‰C  €?  €?  €?  €?  €?  €?”C      ”Nt”bŒorder”hQ(hShUhVhWt”R”(KKK†”h]‰C   @  €@      €?  @@   @”C      ”Nt”bŒtextbox.text”h(Œ_reconstruct”“”hUK …”Cb”‡”R”(KKK†”h-ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”b‰]”(Œ6”Œ15”Œ9”Œ3/4”Œ49”Œ15”et”bŒ mouse.x”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”h*h-Œf8”‰ˆ‡”R”(Kh1NNNJÿÿÿÿJÿÿÿÿK t”bC{®Gáz„¿”†”R”a]”h*h‡C{®Gázt¿”†”R”a]”h*h‡COè´N«¿”†”R”a]”h*h‡C0–übÉ/–¿”†”R”a]”h*h‡C‘¿”†”R”a]”h*h‡COè´N[?”†”R”aet”bŒ mouse.y”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”h*h‡CcÉ/–übÑ¿”†”R”a]”h*h‡C333333Ó¿”†”R”a]”h*h‡CYò‹%¿XÒ¿”†”R”a]”h*h‡CtÚ@§
+Ô¿”†”R”a]”h*h‡Cáz®GáÒ¿”†”R”a]”h*h‡CÍÌÌÌÌÌÔ¿”†”R”aet”bŒmouse.leftButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”Ka]”Ka]”Ka]”Ka]”Ka]”Kaet”bŒmouse.midButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”K a]”K a]”K a]”K a]”K a]”K aet”bŒmouse.rightButton”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”K a]”K a]”K a]”K a]”K a]”K aet”bŒ
+mouse.time”hkhUK …”hm‡”R”(KKK†”hs‰]”(]”Œpsychopy.clock”Œ	Timestamp”“”G@0ÔFø€ …””}”(Œ	lastReset”GAÙÓ¶—@#Œformat”Œbuiltins”Œfloat”“”uba]”hğG@:&%Uû  …””}”(hôGAÙÓ¶£ïP4hõhøuba]”hğG@"šÜ$  …””}”(hôGAÙÓ¶‘M°hõhøuba]”hğG@+Uœ1û  …””}”(hôGAÙÓ¶“âpçhõhøuba]”hğG@>²ù@É  …””}”(hôGAÙÓ¶œ‰jhõhøuba]”hğG@¨»+º  …””}”(hôGAÙÓ¶ªºÌëhõhøubaet”bu}”(h
+h
+Œ	dataTypes”]”(hNhbhih~h¡hÀhÍhÚhçeŒ	isNumeric”}”(hNˆhbˆhi‰h~‰h¡‰hÀ‰hÍ‰hÚ‰hç‰uŒ	dataShape”]”(KKeubŒsequenceIndices”hkhUK …”hm‡”R”(KKK†”h0‰C                   ”t”bŒ
+originPath”JÿÿÿÿŒorigin”NŒ_exp”ŠÄ1ªçubaŒloopsUnfinished”]”hhBŒ version”Œ ”Œ
+runtimeInfo”Nh9h:j  ŒHC:\Users\Kaavya\Desktop\PSY310\PSYCHOPY\Final Project\Vivaldi_lastrun.py”Œ
+savePickle”‰ŒsaveWideText”‰ŒdataFileName”Œ`C:\Users\Kaavya\Desktop\PSY310\PSYCHOPY\Final Project\data/Participant_002_Vivaldi_untitled_2024-12-03_15h45.20.663”Œ
+sortColumns”Œtime”Œ	thisEntry”}”Œ entries”]”(}”(Œ
+trial.started”G?§ØVn   Œ	thisRow.t”G?¶ÆôF   Œpolygon.started”G?¶ÆôF   Œtext.started”G?ğV>e˜  Œtextbox.started”G?ğV>e˜  ŒSubmit_text.started”G?ğV>e˜  Œ
+mouse.started”G?ğ]Prà  Œpolygon.stopped”G?ñnÚŞà  Œ
+trial.stopped”G@$§$m  hihyh~]”h*h‡COè´N«¿”†”R”ah¡]”h*h‡CYò‹%¿XÒ¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@"šÜ$  …””}”(hôGAÙÓ¶‘M°hõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”K Œtrials.thisN”K Œtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j0  G@$¨“8W  j1  G@$µ+ƒ<  j2  G@$µ+ƒ<  j3  G@&µ@<0  j4  G@&µ@<0  j5  G@&µ@<0  j6  G?ğuò€  j7  G@&¾OÔT  j8  G@9’
+´  hihzh~]”h*h‡C0–übÉ/–¿”†”R”ah¡]”h*h‡CtÚ@§
+Ô¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@+Uœ1û  …””}”(hôGAÙÓ¶“âpçhõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j0  G@9ÇaS  j1  G@9
+ÆäU€ j2  G@9
+ÆäU€ j6  G?ğ—Ï  j3  G@:
+Ñ¼€ j4  G@:
+Ñ¼€ j5  G@:
+Ñ¼€ j7  G@:hk#€ j8  G@Em¸kìÀ hihwh~]”h*h‡C{®Gáz„¿”†”R”ah¡]”h*h‡CcÉ/–übÑ¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@0ÔFø€ …””}”(hôGAÙÓ¶—@#hõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C    ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j0  G@EmĞ_(€ j1  G@Eoe½Ê  j2  G@Eoe½Ê  j6  G?ğ€X  j7  G@EñzÃÀ j3  G@EñzÃÀ j4  G@EñzÃÀ j5  G@EñzÃÀ j8  G@R£É.G@ hih{h~]”h*h‡C‘¿”†”R”ah¡]”h*h‡Cáz®GáÒ¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@>²ù@É  …””}”(hôGAÙÓ¶œ‰jhõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j0  G@R£İ
+  j1  G@R¥gÜó€ j2  G@R¥gÜó€ j6  G?ïù×ı€  j3  G@Råu;ì@ j4  G@Råu;ì@ j5  G@Råu;ì@ j7  G@Rç‹©€ j8  G@YmgÇ$  hihxh~]”h*h‡C{®Gázt¿”†”R”ah¡]”h*h‡C333333Ó¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@:&%Uû  …””}”(hôGAÙÓ¶£ïP4hõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h*h0C   ”†”R”hhh;h<h=h>h?h@hAhBhChDhENhFhGu}”(j0  G@Ymz37` j1  G@Ynğ¿ñ  j2  G@Ynğ¿ñ  j3  G@Y®ô
+îà j4  G@Y®ô
+îà j5  G@Y®ô
+îà j6  G?ğu ¨è  j7  G@Y±å@ j8  G@Zéá¢  hih|h~]”h*h‡COè´N[?”†”R”ah¡]”h*h‡CÍÌÌÌÌÌÔ¿”†”R”ahÀ]”KahÍ]”K ahÚ]”K ahç]”hğG@¨»+º  …””}”(hôGAÙÓ¶ªºÌëhõhøubaŒtrials.thisRepN”K Œtrials.thisTrialN”KŒtrials.thisN”KŒtrials.thisIndex”h5hNh;h<h=h>h?h@hAhBhChDhENhFhGueŒ_paramNamesSoFar”]”haŒ	dataNames”]”(Œ	thisRow.t”Œnotes”j0  j2  j3  j4  j5  j6  j7  j8  hih~h¡hÀhÍhÚhçeŒcolumnPriority”}”(jÃ  KjÄ  K	Œ expName”K uhˆŒ
+appendFiles”‰Œ _status”Jÿÿÿÿub.

@@ -1,0 +1,228 @@
+11.0788 	INFO 	Loaded monitor calibration from ['2024_08_09 11:55']
+12.3861 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C61C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C6160>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C3F70>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000172596880D0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.3862 	EXP 	window1: backgroundImage = ''
+12.3862 	EXP 	window1: backgroundFit = 'none'
+12.3864 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.3866 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.3886 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.3892 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.4153 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4178 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4203 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4232 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4278 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4302 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4335 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4351 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4367 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4391 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4415 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4438 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4527 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4560 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4598 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4603 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.4709 	DEBUG 	Upload of Texture Font fontname complete
+12.4728 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.4730 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.4738 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.4744 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000172592C62E0>
+12.5189 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5235 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5261 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5266 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.5396 	DEBUG 	Upload of Texture Font fontname complete
+12.5433 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.5434 	EXP 	window1: recordFrameIntervals = False
+12.7263 	EXP 	window1: recordFrameIntervals = True
+12.9087 	EXP 	Screen (0) actual frame rate measured at 60.36Hz
+12.9088 	EXP 	window1: recordFrameIntervals = False
+12.9088 	EXP 	window1: mouseVisible = True
+12.9092 	EXP 	window1: mouseVisible = True
+12.9094 	EXP 	window1: mouseVisible = True
+12.9109 	EXP 	window1: mouseVisible = True
+12.9117 	EXP 	window1: mouseVisible = True
+12.9447 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9462 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9482 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9514 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9576 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9593 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9610 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9626 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9630 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.9637 	DEBUG 	Upload of Texture Font fontname complete
+12.9656 	EXP 	window1: mouseVisible = True
+12.9659 	EXP 	window1: mouseVisible = True
+12.9665 	EXP 	window1: mouseVisible = True
+12.9671 	EXP 	window1: mouseVisible = True
+13.0141 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+14.8166 	INFO 	keyboard.Keyboard is using iohub backend.
+14.8166 	EXP 	Shape of you: status = STARTED
+15.5649 	EXP 	Sound  set loops 1
+15.5649 	EXP 	Sound  started
+15.5651 	EXP 	window1: mouseVisible = True
+15.5689 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+15.5691 	EXP 	window1: mouseVisible = True
+15.5859 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.5862 	EXP 	window1: mouseVisible = True
+15.5864 	EXP 	window1: mouseVisible = True
+15.5870 	EXP 	window1: mouseVisible = True
+15.5874 	EXP 	window1: mouseVisible = True
+15.6115 	EXP 	window1: mouseVisible = True
+15.6117 	EXP 	window1: mouseVisible = True
+15.6123 	EXP 	window1: mouseVisible = True
+15.6128 	EXP 	window1: mouseVisible = True
+15.6359 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6402 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6414 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6426 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6435 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6446 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6449 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.6460 	DEBUG 	Upload of Texture Font fontname complete
+15.6474 	EXP 	window1: mouseVisible = True
+15.6731 	EXP 	Created Submit_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Submit_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='Click to submit', units='height', win=Window(...), wrapWidth=1)
+0.0173 	EXP 	textbox: autoLog = True
+0.0304 	DEBUG 	Read excel file with openpyxl: Word Problems shape of you.xlsx
+0.0307 	EXP 	Imported Word Problems shape of you.xlsx as conditions, 6 conditions, 1 params
+0.0314 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+0.0317 	EXP 	New trial (rep=0, index=0): {'problem': 'A pizza is cut into 10 slices. If you eat 2/5 of the pizza, how many slices did you eat'}
+0.0677 	EXP 	text: height = 0.05
+0.0677 	EXP 	text: height = 0.05
+0.0677 	EXP 	text: height = 0.05
+0.0677 	EXP 	text: text = 'A pizza is cut into 10 slices. If you eat 2/5 of the pizza, how many slices did you eat'
+0.0677 	EXP 	polygon: autoDraw = True
+1.0181 	EXP 	text: autoDraw = True
+1.0181 	EXP 	textbox: autoDraw = True
+1.0181 	EXP 	Submit_text: autoDraw = True
+1.0856 	EXP 	polygon: autoDraw = False
+6.6510 	DATA 	Keypress: 4
+6.6553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6558 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.6572 	DEBUG 	Upload of Texture Font fontname complete
+8.0919 	DATA 	Mouse: Left button down, pos=(473,130)
+8.0945 	EXP 	New trial (rep=0, index=1): {'problem': 'A store is having a 40% off sale. If a pair of jeans originally costs $40, how much will they cost on sale'}
+8.1173 	EXP 	polygon: autoDraw = False
+8.1173 	EXP 	text: autoDraw = False
+8.1173 	EXP 	textbox: autoDraw = False
+8.1173 	EXP 	Submit_text: autoDraw = False
+8.1173 	EXP 	text: height = 0.05
+8.1173 	EXP 	text: height = 0.05
+8.1173 	EXP 	text: height = 0.05
+8.1173 	EXP 	text: text = 'A store is having a 40% off sale. If a pair of jeans originally costs $40, how much will they cost on sale'
+8.1173 	EXP 	polygon: autoDraw = True
+8.3278 	DATA 	Mouse:  Left button up, pos=(473,130)
+9.1173 	EXP 	text: autoDraw = True
+9.1173 	EXP 	textbox: autoDraw = True
+9.1173 	EXP 	Submit_text: autoDraw = True
+9.1507 	EXP 	polygon: autoDraw = False
+47.7078 	DATA 	Keypress: 2
+47.7114 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+47.7118 	DEBUG 	Uploading Texture Font fontname to graphics card
+47.7162 	DEBUG 	Upload of Texture Font fontname complete
+47.9698 	DATA 	Keypress: 4
+49.4640 	DATA 	Mouse: Left button down, pos=(436,137)
+49.4898 	EXP 	New trial (rep=0, index=2): {'problem': 'A class has 25 students. If 60% of them are girls, how many girls are in the class'}
+49.5161 	EXP 	polygon: autoDraw = False
+49.5161 	EXP 	text: autoDraw = False
+49.5161 	EXP 	textbox: autoDraw = False
+49.5161 	EXP 	Submit_text: autoDraw = False
+49.5161 	EXP 	text: height = 0.05
+49.5161 	EXP 	text: height = 0.05
+49.5161 	EXP 	text: height = 0.05
+49.5161 	EXP 	text: text = 'A class has 25 students. If 60% of them are girls, how many girls are in the class'
+49.5161 	EXP 	polygon: autoDraw = True
+49.6896 	DATA 	Mouse:  Left button up, pos=(436,137)
+50.4991 	EXP 	text: autoDraw = True
+50.4991 	EXP 	textbox: autoDraw = True
+50.4991 	EXP 	Submit_text: autoDraw = True
+50.5160 	EXP 	polygon: autoDraw = False
+59.9213 	DATA 	Keypress: 1
+59.9247 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+59.9252 	DEBUG 	Uploading Texture Font fontname to graphics card
+59.9268 	DEBUG 	Upload of Texture Font fontname complete
+70.1915 	DATA 	Keypress: 5
+70.1943 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+70.1946 	DEBUG 	Uploading Texture Font fontname to graphics card
+70.1973 	DEBUG 	Upload of Texture Font fontname complete
+72.0198 	DATA 	Mouse: Left button down, pos=(436,115)
+72.0222 	EXP 	New trial (rep=0, index=3): {'problem': 'A recipe calls for 3 cups of water for every 4 cups of flour. If you use 8 cups of flour, how many cups of water do you need'}
+72.0477 	EXP 	polygon: autoDraw = False
+72.0477 	EXP 	text: autoDraw = False
+72.0477 	EXP 	textbox: autoDraw = False
+72.0477 	EXP 	Submit_text: autoDraw = False
+72.0477 	EXP 	text: height = 0.05
+72.0477 	EXP 	text: height = 0.05
+72.0477 	EXP 	text: height = 0.05
+72.0477 	EXP 	text: text = 'A recipe calls for 3 cups of water for every 4 cups of flour. If you use 8 cups of flour, how many cups of water do you need'
+72.0477 	EXP 	polygon: autoDraw = True
+72.2381 	DATA 	Mouse:  Left button up, pos=(436,115)
+73.0479 	EXP 	text: autoDraw = True
+73.0479 	EXP 	textbox: autoDraw = True
+73.0479 	EXP 	Submit_text: autoDraw = True
+73.0809 	EXP 	polygon: autoDraw = False
+81.2969 	DATA 	Keypress: 6
+81.2992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+81.2995 	DEBUG 	Uploading Texture Font fontname to graphics card
+81.3005 	DEBUG 	Upload of Texture Font fontname complete
+82.5289 	DATA 	Mouse: Left button down, pos=(436,115)
+82.5543 	EXP 	New trial (rep=0, index=4): {'problem': 'A car travels 420 miles in 7 hours. What is the average speed of the car'}
+82.5809 	EXP 	polygon: autoDraw = False
+82.5809 	EXP 	text: autoDraw = False
+82.5809 	EXP 	textbox: autoDraw = False
+82.5809 	EXP 	Submit_text: autoDraw = False
+82.5809 	EXP 	text: height = 0.05
+82.5809 	EXP 	text: height = 0.05
+82.5809 	EXP 	text: height = 0.05
+82.5809 	EXP 	text: text = 'A car travels 420 miles in 7 hours. What is the average speed of the car'
+82.5809 	EXP 	polygon: autoDraw = True
+82.7546 	DATA 	Mouse:  Left button up, pos=(436,115)
+83.5822 	EXP 	text: autoDraw = True
+83.5822 	EXP 	textbox: autoDraw = True
+83.5822 	EXP 	Submit_text: autoDraw = True
+83.6136 	EXP 	polygon: autoDraw = False
+89.3039 	DATA 	Keypress: 6
+89.3940 	DATA 	Keypress: 0
+89.3978 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+89.3983 	DEBUG 	Uploading Texture Font fontname to graphics card
+89.3996 	DEBUG 	Upload of Texture Font fontname complete
+91.5050 	DATA 	Mouse: Left button down, pos=(438,135)
+91.5071 	EXP 	New trial (rep=0, index=5): {'problem': None}
+91.5303 	EXP 	polygon: autoDraw = False
+91.5303 	EXP 	text: autoDraw = False
+91.5303 	EXP 	textbox: autoDraw = False
+91.5303 	EXP 	Submit_text: autoDraw = False
+91.5303 	EXP 	text: height = 0.05
+91.5303 	EXP 	text: height = 0.05
+91.5303 	EXP 	text: height = 0.05
+91.5303 	EXP 	text: text = 'A car travels 420 miles in 7 hours. What is the average speed of the car'
+91.5303 	EXP 	polygon: autoDraw = True
+91.7210 	DATA 	Mouse:  Left button up, pos=(438,135)
+92.5298 	EXP 	text: autoDraw = True
+92.5298 	EXP 	textbox: autoDraw = True
+92.5298 	EXP 	Submit_text: autoDraw = True
+92.5483 	EXP 	polygon: autoDraw = False
+97.0858 	DATA 	Keypress: 6
+97.1884 	DATA 	Keypress: 0
+98.7384 	DATA 	Mouse: Left button down, pos=(447,116)
+98.7479 	EXP 	polygon: autoDraw = False
+98.7479 	EXP 	text: autoDraw = False
+98.7479 	EXP 	textbox: autoDraw = False
+98.7479 	EXP 	Submit_text: autoDraw = False
+98.7530 	EXP 	Shape of you: status = STOPPED
+98.7636 	INFO 	saved data to 'C:\\Users\\Kaavya\\Desktop\\PSY310\\PSYCHOPY\\Final Project\\data/Participant_007_SOY_Shape of you_2024-12-03_15h49.33.489.csv'
+98.7657 	INFO 	saved data to C:\Users\Kaavya\Desktop\PSY310\PSYCHOPY\Final Project\data/Participant_007_SOY_Shape of you_2024-12-03_15h49.33.489.psydat
+98.8342 	EXP 	window1: mouseVisible = True
+99.4396 	DEBUG 	Saving data for Shape of you ExperimentHandler
